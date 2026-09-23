@@ -1,0 +1,13 @@
+{
+  "description": "Zone Visa - Bureau d'assistance et de conseil en visa",
+  "domain": "owns.it.com",
+  "subdomain": "zonevisa",
+  "owner": {
+    "repo": "https://github.com/chpayakh1987/register",
+    "email": "adel.debbi@gmail.com"
+  },
+  "record": {
+    "CNAME": "sparkly-concha-b2ab7d.netlify.app"
+  },
+  "proxied": false
+}
